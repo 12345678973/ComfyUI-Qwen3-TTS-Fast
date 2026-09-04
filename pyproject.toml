@@ -1,0 +1,23 @@
+[project]
+name = "qwen3-tts-fast"
+description = "CUDA-graph accelerated Qwen3-TTS nodes for ComfyUI. 5-8x faster generation without quality loss, built on faster-qwen3-tts."
+version = "0.1.0"
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+
+# faster-qwen3-tts is bundled in vendor/, so it is deliberately NOT listed:
+# its declared transformers>=5.15 floor is stricter than what the code uses.
+# qwen-tts is the upstream Qwen3-TTS package (model + tokenizer); it pulls the
+# transformers/accelerate pins that other Qwen3-TTS node packs also install.
+dependencies = ["qwen-tts>=0.1.1", "soundfile>=0.12.1", "numpy>=1.24.0"]
+
+[project.urls]
+Repository = "https://github.com/YildirimMC/ComfyUI-Qwen3-TTS-Fast"
+BugTracker = "https://github.com/YildirimMC/ComfyUI-Qwen3-TTS-Fast/issues"
+
+[tool.comfy]
+PublisherId = "yildirim-mc"
+DisplayName = "ComfyUI-Qwen3-TTS-Fast"
+Icon = ""
+includes = []

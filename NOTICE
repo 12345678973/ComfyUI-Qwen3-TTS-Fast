@@ -1,0 +1,32 @@
+ComfyUI-Qwen3-TTS-Fast
+Copyright 2026 Mehar Can Yildirim
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+This product bundles and builds upon the following third-party work:
+
+  faster-qwen3-tts
+  Copyright (c) 2026 Andres Marafioti
+  Licensed under the MIT License
+  https://github.com/andimarafioti/faster-qwen3-tts
+
+  A copy of this library is BUNDLED in vendor/faster_qwen3_tts/, so that this
+  node installs without a separate pip step. The MIT license text is retained
+  verbatim in vendor/LICENSE.faster-qwen3-tts. Modifications are limited to
+  transformers 4.x compatibility, removal of the optional GGML backend, and a
+  trimmed package __init__; each is marked in the source with
+  "[ComfyUI vendor patch]" and documented in vendor/PATCHES.md.
+
+  Qwen3-TTS
+  Copyright Alibaba Cloud, Qwen Team
+  Licensed under the Apache License 2.0
+  https://github.com/QwenLM/Qwen3-TTS
+  Not bundled. Model weights and the qwen_tts package are obtained separately.
+
+  ComfyUI-QWEN3_TTS (crt-nodes)
+  Copyright PGCRT
+  Licensed under the Apache License 2.0
+  https://github.com/PGCRT/ComfyUI-QWEN3_TTS
+  Not bundled. The node layout, widget set and category structure of this
+  project follow that wrapper so workflows translate between the two.
+  No source is copied.
